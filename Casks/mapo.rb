@@ -1,8 +1,8 @@
 # Homebrew cask for Mapo. Lives in the tap repo Bur2ak/homebrew-tap as
 # Casks/mapo.rb; scripts/release.sh --publish prints the new version/sha256.
 cask "mapo" do
-  version "0.3.1"
-  sha256 "5d216df59126db4d87acbf31cf801d4954e6f73f0bd2004f7ad4e3d57885ea37"
+  version "0.3.2"
+  sha256 "c2f1de971cdd3bcaf5705aaa916981549c8c480ab03679415a4a2249f5851d95"
 
   url "https://github.com/Bur2ak/mapo/releases/download/v#{version}/Mapo-#{version}.dmg"
   name "Mapo"
